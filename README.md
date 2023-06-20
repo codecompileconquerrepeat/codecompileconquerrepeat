@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codecompileconquerrepeat.
 - 👀 I’m interested in debugging the world.
-- 🌱 I’m currently learning to survive CoVID.
+- 🌱 #WorkFromHomeMatters
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 My Email ID :- helloitsmedipayan@gmail.com
